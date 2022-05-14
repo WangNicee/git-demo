@@ -1,2 +1,3 @@
 王峰学习git，master又添加了一句
-hot-fix修改了一个bug
+hot-fix修改了一个bug，hot-fix在这添加一句
+
