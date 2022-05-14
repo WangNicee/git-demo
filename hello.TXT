@@ -1,2 +1,2 @@
-王峰学习git
+王峰学习git，master又添加了一句
 hot-fix修改了一个bug
